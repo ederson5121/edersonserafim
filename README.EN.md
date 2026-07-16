@@ -2,11 +2,11 @@
 - 🇬🇧 English: [README.en.md](README.EN.md)
 - 🇵🇹 Português: [README.pt.md](README.PT-BR.md)
 - 
-# Hi, I'm Ederson Serafim 👋
+# Hi, I'm Ederson Serafim 
 
-🎓 Information Systems Management Student  
-💻 Interested in Web Development, Systems, Networking and Cybersecurity  
-🇦🇴 Based in Luanda, Angola
+Information Systems Management Student  
+Interested in Web Development, Systems, Networking and Cybersecurity  
+Based in Luanda, Angola
 
 ---
 
@@ -43,7 +43,7 @@ Currently, I am improving my knowledge of web development, databases, Linux syst
 
 ## Featured Projects
 
-### 🚀 SysPonto - School Management System
+###  SysPonto - School Management System
 
 A school management system created to simplify administrative processes, including employee management, attendance tracking, and data organization.
 
@@ -56,7 +56,7 @@ A school management system created to simplify administrative processes, includi
 
 ---
 
-### 💊 SysPharm - Pharmacy Management System
+### SysPharm - Pharmacy Management System
 
 A management system project focused on organizing products and pharmacy operations.
 
@@ -64,10 +64,10 @@ A management system project focused on organizing products and pharmacy operatio
 
 ## Currently Learning
 
-- 🐧 Linux Administration
-- 🌐 Networking and Protocols
-- 🔐 Cybersecurity Fundamentals
-- ⚙️ Secure Development Practices
+-  Linux Administration
+-  Networking and Protocols
+-  Cybersecurity Fundamentals
+-  Secure Development Practices
 
 ---
 
@@ -82,6 +82,6 @@ A management system project focused on organizing products and pharmacy operatio
 
 ## Contact
 
-📧 Email: edersonserafim777@gmail.com
+ Email: edersonserafim777@gmail.com
 
-💼 LinkedIn: Coming soon
+ LinkedIn: Coming soon
