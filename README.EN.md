@@ -1,3 +1,7 @@
+🌐 Language:
+- 🇬🇧 English: [README.en.md](README.EN.md)
+- 🇵🇹 Português: [README.pt.md](README.PT-BR.md)
+- 
 # Hi, I'm Ederson Serafim 👋
 
 🎓 Information Systems Management Student  
