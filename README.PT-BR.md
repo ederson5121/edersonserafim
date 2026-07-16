@@ -1,8 +1,8 @@
-# Olá, eu sou Ederson Serafim 👋
+# Olá, eu sou Ederson Serafim 
 
-🎓 Estudante de Gestão de Sistemas Informáticos  
-💻 Interessado em Desenvolvimento Web, Sistemas, Redes e Cibersegurança  
-🇦🇴 Luanda, Angola
+ Estudante de Gestão de Sistemas Informáticos  
+ Interessado em Desenvolvimento Web, Sistemas, Redes e Cibersegurança  
+Luanda, Angola
 
 ---
 
@@ -39,7 +39,7 @@ Atualmente estou a aprofundar conhecimentos em desenvolvimento web, Linux, bases
 
 ## Projetos
 
-### 🚀 SysPonto - Sistema de Gestão Escolar
+###  SysPonto - Sistema de Gestão Escolar
 
 Sistema desenvolvido para facilitar a gestão escolar, permitindo controlo de funcionários, presenças e informações administrativas.
 
@@ -52,7 +52,7 @@ Sistema desenvolvido para facilitar a gestão escolar, permitindo controlo de fu
 
 ---
 
-### 💊 SysPharm - Sistema de Gestão de Farmácia
+###  SysPharm - Sistema de Gestão de Farmácia
 
 Projeto de sistema de gestão para organização de produtos e processos de uma farmácia.
 
@@ -60,10 +60,10 @@ Projeto de sistema de gestão para organização de produtos e processos de uma 
 
 ## Atualmente aprendendo
 
-- 🐧 Linux e administração de sistemas
-- 🌐 Redes e protocolos
-- 🔐 Cybersecurity
-- ⚙️ Desenvolvimento seguro (Secure Development)
+- Linux e administração de sistemas
+- Redes e protocolos
+- Cybersecurity
+- Desenvolvimento seguro (Secure Development)
 
 ---
 
@@ -78,6 +78,6 @@ Projeto de sistema de gestão para organização de produtos e processos de uma 
 
 ## Contacto
 
-📧 edersonserafim777@gmail.com
+edersonserafim777@gmail.com
 
-💼 LinkedIn: Em atualização
+LinkedIn: Em atualização
